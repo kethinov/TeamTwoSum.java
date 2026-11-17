@@ -1,4 +1,4 @@
-# TeamTwoSum.java
+
 # Team Two Sum
 
 For our CSCI 3015 project, we’re comparing three ways to solve Two Sum: brute force, sorting with two pointers, and a hash map. This repository contains Group B’s Java implementation of the two-pointer approach.
